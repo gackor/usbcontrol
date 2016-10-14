@@ -19,9 +19,9 @@
 
 
 ### 三、演示
-![](http://gitl.kidcares.cn:10080/android/usbcontrol/raw/8c7fa820c75a6c3ee9da000c94e68b21eaf0b2ef/webclient/sc1.gif)
 
-![](http://gitl.kidcares.cn:10080/android/usbcontrol/raw/8c7fa820c75a6c3ee9da000c94e68b21eaf0b2ef/webclient/us2.gif)
+![](http://raw.githubusercontent.com/gackor/usbcontrol/master/us2.gif)
+![](http://raw.githubusercontent.com/gackor/usbcontrol/master/sc1.gif)
 
 ### 四、截屏常见的方案
 
